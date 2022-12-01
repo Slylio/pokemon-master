@@ -1,0 +1,1 @@
+17. Oui le modèle suivant est un foncteur car c'est une classe redéfinissant l'opérateur "()";
